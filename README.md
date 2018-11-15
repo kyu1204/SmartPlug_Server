@@ -19,20 +19,26 @@ DB로 처리.
 * * *
 # 실행
 ![plug1](https://t1.daumcdn.net/cfile/tistory/991E6B475BED0E1029)
+
 1. **콘센트모습(릴레이연결)**
 
 ![plug2](https://t1.daumcdn.net/cfile/tistory/99943E475BED0E1230)
+
 2. **아두이노 회로도**
 
 ![plug3](https://t1.daumcdn.net/cfile/tistory/99BFA6475BED0E1215)
+
 3. **더미클라를 이용한 서버 테스트**
 
 ![plug4](https://t1.daumcdn.net/cfile/tistory/995D9B475BED0E131A)
+
 4. **플러그 이름 변경(권한 있을 시)**
 
 ![plug5](https://t1.daumcdn.net/cfile/tistory/99FA1F475BED0E141E)
+
 5. **플러그 상태 값 변경(권한 있을 시)**
 
 ![plug6](https://t1.daumcdn.net/cfile/tistory/995DC0475BED0E151A)
+
 6. **플러그 상태 값 변경(권한 없을 시)**
 >임의로 관리자페이지 레벨에서 권한값을 1로 설정해서 보내도 DB와 대조 후 권한이 없으면 Deny시킴
